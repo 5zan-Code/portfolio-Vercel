@@ -26,5 +26,13 @@ export const projectsData = [
         image: infraCodeImg,
         link: "https://github.com/5zan-Code/InfraAndCode",
         tags: ["Terraform", "AWS", "Docker", "CI/CD"]
+    },
+     {
+        id: 4,
+        title: "Self-Healing Kubernetes Platform with GitOps and Chaos Engineering",
+        description: "A production-ready, enterprise-grade self-healing Kubernetes platform with GitOps workflows and chaos engineering for reliability testing",
+        image: infraCodeImg,
+        link: "https://github.com/5zan-Code/Self-Healing-Kubernetes-Platform-with-GitOps-and-Chaos-Engineering",
+        tags: ["Terraform", "AWS", "Docker", "K8s", "Grafana", "Prometheus"]
     }
 ];
