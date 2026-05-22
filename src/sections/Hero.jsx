@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="text-content">
           <span className="greeting">Hello, I'm</span>
           <h1 className="name">Faizan Ansari</h1>
-          <h2 className="title">DevOps & System Admin</h2>
+          <h2 className="title">System & Cloud Engineer</h2>
           <p className="description">
             Automating and sustaining hybrid-cloud environments with expertise in AWS, Azure, and Infrastructure as Code.
           </p>
