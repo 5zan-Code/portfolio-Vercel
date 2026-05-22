@@ -1,14 +1,22 @@
 export const experienceData = [
     {
         id: 1,
+        role: 'Cloud Consultant',
+        company: 'OpenText',
+        period: 'April 2026 - Present',
+        description: 'I design and deploy resilient cloud-native architectures that solve for scalability, security, and high availability across AWS, Azure, and GCP. From automating CI/CD pipelines to optimizing complex infrastructure.',
+        technologies: ['AWS', 'Azure', 'GCP', 'Ansible', 'Terraform', 'Kubernetes', 'GitOps']
+    },
+    {
+        id: 2,
         role: 'System Administrator',
         company: 'eSentire Inc',
-        period: 'Jan 2025 - Present',
+        period: 'Jan 2025 - April 2026',
         description: 'Designed and deployed secure AWS and Azure environments leveraging Azure VNET, Key Vault, and Azure Policy. Authored technical runbooks for 24/7 operational support and conducted Root Cause Analysis (RCA) for critical incidents.',
         technologies: ['AWS', 'Azure', 'Ansible', 'Terraform', 'RCA']
     },
     {
-        id: 2,
+        id: 3,
         role: 'Teaching Faculty (Part-Time)',
         company: 'Conestoga College',
         period: 'Jan 2024 - Present',
@@ -16,7 +24,7 @@ export const experienceData = [
         technologies: ['JavaScript', 'Teaching', 'Mentorship']
     },
     {
-        id: 3,
+        id: 4,
         role: 'Application Administrator',
         company: 'Linamar Corporation',
         period: 'April 2024 - Jan 2025',
@@ -24,19 +32,11 @@ export const experienceData = [
         technologies: ['SaaS', 'PaaS', 'SLA Management', 'Integration']
     },
     {
-        id: 4,
+        id: 5,
         role: 'System and Desktop Technician',
         company: 'Linamar Corporation',
         period: 'March 2023 - April 2024',
         description: 'Managed installation and updates for physical/virtual Windows/Linux servers. Mitigated security risks using firewalls and Sentinel One. Oversaw infrastructure services like DHCP, DNS, and Azure Entra.',
         technologies: ['Windows Server', 'Linux', 'Azure Entra', 'Security']
     },
-    {
-        id: 5,
-        role: 'DevOps Engineer',
-        company: 'IAI IT Solution',
-        period: 'Sept 2020 - Jan 2023',
-        description: 'Implemented CI/CD pipelines (Jenkins, GitHub Actions) for deploying microservices to AWS (Elastic Beanstalk, ECS). Optimized costs using AWS Cost Explorer and Terraform templates.',
-        technologies: ['CI/CD', 'Jenkins', 'AWS', 'Terraform', 'Microservices']
-    }
 ];
