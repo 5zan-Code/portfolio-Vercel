@@ -13,7 +13,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I am a DevOps and System Administrator with over 5 years of experience in automating and sustaining hybrid-cloud environments (AWS, Azure). My expertise lies in 24/7 production support, incident management, and Root Cause Analysis (RCA).
+              I am a System and Cloud Engineer with over 5 years of experience in automating and sustaining hybrid-cloud environments (AWS, Azure). My expertise lies in 24/7 production support, incident management, and Root Cause Analysis (RCA).
             </p>
             <p>
               I specialize in Infrastructure as Code (IaC) using tools like Ansible and Terraform, and I have a proven track record of designing secure, compliant cloud architectures.
