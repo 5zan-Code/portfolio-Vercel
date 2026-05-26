@@ -41,7 +41,7 @@ const Hero = () => {
                 <code>
                   {`const engineer = {
   name: 'Faizan Ansari',
-  role: 'DevOps Engineer',
+  role: 'Cloud Engineer',
   skills: [
     'AWS',
     'Azure',
