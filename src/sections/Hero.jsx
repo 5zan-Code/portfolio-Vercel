@@ -46,7 +46,9 @@ const Hero = () => {
     'AWS',
     'Azure',
     'Terraform',
-    'Ansible'
+    'Ansible',
+    'Kubernetes',
+    'GitOps'
   ],
   focus: 'Automation'
 };`}
