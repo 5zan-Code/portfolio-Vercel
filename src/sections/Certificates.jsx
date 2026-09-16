@@ -36,6 +36,13 @@ const Certificates = () => {
       issuer: 'Amazon Web Services',
       date: 'Valid',
       link: 'https://www.credly.com/earner/earned/badge/6e97b801-028a-44c7-b247-24a79ac69702'
+    },
+    {
+      id: 6,
+      title: 'Microsoft Certified: Identity and Access Administrator Associate',
+      issuer: 'Microsoft Azure',
+      date: 'Valid',
+      link: 'https://learn.microsoft.com/api/credentials/share/en-ca/faizanansari-007/53B42AACC0DCF595?sharingId=387470353FCD0821'
     }
   ];
 
