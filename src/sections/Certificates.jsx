@@ -21,7 +21,6 @@ const Certificates = () => {
       title: 'AWS Certified Solutions Architect – Associate (SAA)',
       issuer: 'Amazon Web Services',
       date: 'Aug 2025 - Aug 2028',
-      date: 'Valid',
       link: 'https://www.credly.com/badges/33218c0f-751d-4f87-8092-68078bd6ed3c/public_url'
     },
     {
@@ -29,7 +28,6 @@ const Certificates = () => {
       title: 'AWS Certified Developer – Associate',
       issuer: 'Amazon Web Services',
       date: 'May 2025 - May 2028',
-      date: 'Valid',
       link: 'https://www.credly.com/earner/earned/badge/18f6f249-7368-4923-ba9c-aa47f09f5703'
     },
     {
@@ -37,7 +35,6 @@ const Certificates = () => {
       title: 'AWS Certified Cloud Practitioner (CCP)',
       issuer: 'Amazon Web Services',
       date: 'May 2023 - Sept 2029',
-      date: 'Valid',
       link: 'https://www.credly.com/earner/earned/badge/6e97b801-028a-44c7-b247-24a79ac69702'
     },
     {
@@ -45,7 +42,6 @@ const Certificates = () => {
       title: 'Microsoft Certified: Identity and Access Administrator Associate',
       issuer: 'Microsoft Azure',
       date: 'Aug 2026 - Aug 2029',
-      date: 'Valid',
       link: 'https://learn.microsoft.com/api/credentials/share/en-ca/faizanansari-007/53B42AACC0DCF595?sharingId=387470353FCD0821'
     },
     {
@@ -53,7 +49,6 @@ const Certificates = () => {
       title: 'AWS Certified CloudOps Engineer – Associate',
       issuer: 'AWS',
       date: 'Sept 2026 - Sept 2029',
-      date: 'Valid',
       link: 'https://www.credly.com/badges/bc6b6e53-f53b-44bc-9b5b-74f621346c1c/public_url'
     }
   ];
