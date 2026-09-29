@@ -1,10 +1,10 @@
-const ExperienceCard = ({ role, company, period, description, technologies }) => {
+const ExperienceCard = ({ role, company, period, description, technologies, companyURL }) => {
     return (
         <div className="experience-card glass">
             <div className="card-header">
                 <div>
                     <h3 className="role">{role}</h3>
-                    <h4 className="company">{company}</h4>
+                    <h4 className="company"><a href={companyURL}>{company}</a></h4>
                 </div>
                 <span className="period">{period}</span>
             </div>
