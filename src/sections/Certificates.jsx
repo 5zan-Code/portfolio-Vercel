@@ -43,6 +43,13 @@ const Certificates = () => {
       issuer: 'Microsoft Azure',
       date: 'Valid',
       link: 'https://learn.microsoft.com/api/credentials/share/en-ca/faizanansari-007/53B42AACC0DCF595?sharingId=387470353FCD0821'
+    },
+    {
+      id: 7,
+      title: 'AWS Certified CloudOps Engineer – Associate',
+      issuer: 'AWS',
+      date: 'Valid',
+      link: 'https://www.credly.com/badges/bc6b6e53-f53b-44bc-9b5b-74f621346c1c/public_url'
     }
   ];
 
