@@ -4,7 +4,7 @@ const ExperienceCard = ({ role, company, period, description, technologies, comp
             <div className="card-header">
                 <div>
                     <h3 className="role">{role}</h3>
-                    <h4 className="company"><a href={companyURL}>{company}</a></h4>
+                    <h4 className="company"><a href={companyURL} target="_blank">{company}</a></h4>
                 </div>
                 <span className="period">{period}</span>
             </div>
